@@ -7,6 +7,12 @@
 
 ---
 
+## Тайлан
+
+[Лабораторийн Тайлан](https://docs.google.com/document/d/1BwrATSD7jbkq0so4V4k-ZS2C8AX13gdh6jyZ3f84Rn4/edit?tab=t.0)
+
+---
+
 ## Бүтэц
 lab06/
 ├── 1.cpp       # Үндсэн програмын код
